@@ -7,7 +7,7 @@
   <a href="https://twitter.com/mustafacitak">
     <img src="https://img.shields.io/badge/TWITTER-1da1f2?logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:mustafacitak@gmail.com">
+  <a href="mailto:mustafaa.citak@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
