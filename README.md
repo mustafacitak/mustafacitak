@@ -46,21 +46,6 @@ I am Mustafa Çıtak, an <b>AI R&D Engineer</b> passionate about reasoning-centr
   <br>
 </p>
 
-#### Most Used Languages
-
-| Language          | Percent   |
-|-------------------|----------|
-| 🐍 Python         | 66.28%   |
-| 📓 Jupyter NB     | 33.50%   |
-| 🟦 TypeScript     | 0.20%    |
-| 💛 JavaScript     | 0.01%    |
-| 🔸 HTML           | 0.00%    |
-| 🎨 CSS            | 0.00%    |
-
-<!-- Alternatif olarak otomatik görsel için: -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacitak&layout=compact&theme=dark&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
-</p>
 ---
 
 ### 🎓 Education & Training
