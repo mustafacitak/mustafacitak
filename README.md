@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="your-banner-image-url" alt="Banner" width="100%" />
   <br>
   <a href="https://www.linkedin.com/in/citakmustafa/">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
