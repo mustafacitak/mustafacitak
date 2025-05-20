@@ -6,7 +6,7 @@
   <a href="https://twitter.com/mustafacitakai">
     <img src="https://img.shields.io/badge/TWITTER-1da1f2?logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:mustafaa.citak@gmail.com">
+  <a href="mailto:info.mustafacitak@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -73,7 +73,7 @@ I am Mustafa Çıtak, an <b>AI R&D Engineer</b> passionate about reasoning-centr
 ---
 
 Let's connect and build the future of AI together!  
-📫 Reach me: mustafacitak@gmail.com | [LinkedIn](https://www.linkedin.com/in/mustafacitak/)
+📫 Reach me: info.mustafacitak@gmail.com | [LinkedIn](https://www.linkedin.com/in/citakmustafa/)
 
 ---
 
