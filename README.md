@@ -1,10 +1,10 @@
 <p align="center">
   <img src="your-banner-image-url" alt="Banner" width="100%" />
   <br>
-  <a href="https://www.linkedin.com/in/mustafacitak/">
+  <a href="https://www.linkedin.com/in/citakmustafa/">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/mustafacitak">
+  <a href="https://twitter.com/mustafacitakai">
     <img src="https://img.shields.io/badge/TWITTER-1da1f2?logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:mustafaa.citak@gmail.com">
